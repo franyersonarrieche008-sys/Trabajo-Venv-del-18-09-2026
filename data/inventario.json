@@ -1,0 +1,18 @@
+[
+    {
+        "codigo": "14",
+        "nombre": "Portatil",
+        "categoria": "Electronica",
+        "precio_unitario": 3000000.0,
+        "cantidad": 4,
+        "valor_total_stock": 12000000.0
+    },
+    {
+        "codigo": "25",
+        "nombre": "mouse",
+        "categoria": "Electronica",
+        "precio_unitario": 25000.0,
+        "cantidad": 34,
+        "valor_total_stock": 850000.0
+    }
+]
